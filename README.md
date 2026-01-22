@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cactuzzles
-- 👀 I’m interested in game development and game design!
-- 🌱 I’m currently learning Godot!
+- 👀 I’m interested in game development, game design, and software development!
+- 🌱 I’m currently learning Godot, C, Python, and SQL!
 - 💞️ I’m looking to collaborate on Godot game development in the future
 - 📫 How to reach me : Gmail: elianna.kalodimou@gmail.com OR Discord cactuzzles
 - 😄 Pronouns: She/Her
