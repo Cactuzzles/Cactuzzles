@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cactuzzles
+- 👋 Hi, I’m @Ellie
 - 👀 I’m interested in game development, game design, and software development!
 - 🌱 I’m currently learning Godot, C, Python, and SQL!
 - 💞️ I’m looking to collaborate on Godot game development in the future
